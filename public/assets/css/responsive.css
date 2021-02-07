@@ -1,0 +1,536 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1299px) and (max-width: 1500px) {
+    .container {
+        max-width: 1330px;
+    }
+    .main-menu nav > ul > li > a {
+        padding: 29px 14px;
+    }
+    .post-2-content h4 {
+        font-size: 16px;
+    }
+    .news-tab li {
+        margin-left: 56px;
+    }
+    .news-tab li a::before {
+        left: -30px;
+    }
+    .newsletter-02-wrapper .newsletter-button button {
+        padding: 14px 140px;
+    }
+    .news-data-wrapper {
+        padding: 40px 30px 30px 30px;
+    }
+    .author-2-text {
+        margin-right: 0;
+        margin-top: 0;
+    }
+    .lifestyle-text h4 {
+        font-size: 20px;
+    }
+    .about-img {
+        margin-right: 0;
+    }
+    .area-bold-title p {
+        margin-left: 0;
+    }
+
+
+
+
+}
+
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .container {
+        max-width: 1230px;
+    }
+    .main-menu nav > ul > li > a {
+        font-size: 13px;
+        padding: 29px 10px;
+    }
+    .hero-text {
+        padding: 45px 30px;
+    }
+    .post-content h4 {
+        font-size: 16px;
+    }
+    .social-icon a {
+        margin-left: 3px;
+    }
+    .post-2-content h4 {
+        font-size: 16px;
+    }
+    .news-post-item .post-2-content h4 {
+        font-size: 16px;
+    }
+    .breaking-bg {
+        padding: 30px 30px 10px;
+    }
+    .breaking-wrapper {
+        padding: 17px;
+    }
+    .footer-wrapper {
+        padding-right: 0;
+    }
+    .newsletter-02-wrapper {
+        padding: 48px 30px 70px 30px;
+    }
+    .newsletter-02-wrapper .newsletter-button button {
+        padding: 14px 129px;
+    }
+    .news-tab li {
+        margin-left: 26px;
+    }
+    .news-tab li a {
+        font-size: 18px;
+    }
+    .news-tab li a::before {
+        display: none;
+    }
+    .lifestyle-04-text p {
+        margin-left: 0;
+    }
+    .lifestyle-04-text {
+        margin-top: 0;
+    }
+    .lifestyle-04-text h4 {
+        font-size: 18px;
+    }
+    .author-2-text {
+        margin-right: 0;
+        margin-top: 0;
+    }
+
+    .lifestyle-text h4 {
+        font-size: 20px;
+    }
+    .about-img {
+        margin-right: 0;
+    }
+    .area-bold-title p {
+        margin-left: 0;
+    }
+    .about-wrapper {
+        margin-top: 0;
+    }
+    .header-icon {
+        margin-right: 85px;
+    }
+    .header-lang-list {
+        right: -20px;
+    }
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .footer-wrapper {
+        padding-right: 0;
+    }
+    .header-lang {
+        padding: 22px 10px 22px;
+    }
+    .hero-text {
+        padding: 20px;
+    }
+    .hero-text h3 {
+        font-size: 24px;
+    }
+    .post-2-content h4 {
+        font-size: 15px;
+    }
+    .hero-02-wrapper .hero-text {
+        padding: 30px 30px 30px 30px;
+    }
+    .news-post-item .post-2-content h4 {
+        font-size: 15px;
+        margin-bottom: 4px;
+        margin-top: 6px;
+    }
+    .news-post-item .post-2-content {
+        margin-top: 0;
+    }
+    .news-post-item .post-sm-img {
+        margin-left: 15px;
+    }
+    .lifestyle-text h4 {
+        font-size: 21px;
+    }
+    .newsletter-wrapper {
+        padding: 60px 20px 60px 20px;
+    }
+    .newsletter-button button {
+        padding: 21px 70px;
+    }
+    .hero-04-wrapper .hero-text {
+        padding: 15px 15px 30px;
+    }
+    .hero-04-wrapper .hero-text h3 {
+        font-size: 20px;
+    }
+    .newsletter-02-wrapper {
+        padding: 48px 20px 70px 20px;
+    }
+    .newsletter-02-wrapper .newsletter-button button {
+        padding: 14px 96px;
+    }
+    .recent-news-text {
+        padding: 20px 14px 16px;
+    }
+    .recent-news-text h5 {
+        font-size: 14px;
+    }
+    .footer-icon a {
+        margin-left: 2px;
+    }
+    .news-data-bg {
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-top: -50px;
+    }
+    .news-data-wrapper {
+        padding: 40px 20px 30px 20px;
+    }
+    .news-data-text h3 {
+        font-size: 18px;
+    }
+    .hero-big {
+        max-width: 100%;
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 80%;
+        flex: 0 0 100%;
+    }
+    .lifestyle-04-text p {
+        margin-left: 0;
+    }
+    .lifestyle-04-text {
+        margin-top: 0;
+    }
+    .lifestyle-04-text h4 {
+        font-size: 15px;
+    }
+    .news-tab li {
+        margin-left: 36px;
+    }
+    .news-tab li a::before {
+        display: none;
+    }
+    .social-icon a {
+        margin-bottom: 5px;
+    }
+    .layout-wrapper-03 {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .author-2-text {
+        margin-right: 0;
+        margin-top: 0;
+    }
+    .about-img {
+        margin-right: 0;
+    }
+    .area-bold-title p {
+        margin-left: 0;
+    }
+    .area-bold-title h1 {
+        font-size: 35px;
+    }
+    .faq-bg {
+        padding: 68px 40px 50px 40px;
+    }
+    .faq-wrapper {
+        margin-left: 0;
+    }
+    .about-wrapper {
+        margin-top: 0;
+    }
+    .contact-address-wrapper {
+        margin-left: 0;
+    }
+    .menu-bg-2 {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .footer-wrapper {
+        padding-right: 0;
+    } 
+    .breaking-bg {
+        padding: 20px 15px 10px;
+    }
+    .breaking-wrapper {
+        padding: 10px;
+    }
+    .post-2-content h4 {
+        font-size: 15px;
+    }
+    .breaking-wrapper .post-sm-img > a img {
+        width: 100px;
+    }
+    .post-content-meta span {
+        margin-left: 5px;
+    }
+    .post-sm-img {
+        margin-left: 12px;
+    }
+    .footer-img {
+        margin-top: 0;
+    }
+    .news-data-bg {
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-top: -50px;
+    }
+    .news-data-wrapper {
+        padding: 40px 20px 30px 20px;
+    }
+    .news-data-text h3 {
+        font-size: 20px;
+
+    }
+    .hero-big {
+        max-width: 100%;
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 80%;
+        flex: 0 0 100%;
+    }
+    .layout-wrapper-03 {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .layout-wrapper-03 .lifestyle-02-text h4 {
+        font-size: 30px;
+    }
+    .author-2-text {
+        margin-right: 0;
+        margin-top: 0;
+    }
+    .subscribe-title h1 {
+        font-size: 40px;
+    }
+    .about-img {
+        margin-right: 0;
+    }
+    .area-bold-title p {
+        margin-left: 0;
+    }
+    .about-wrapper {
+        margin-top: 0;
+    }
+    .faq-bg {
+        padding: 68px 40px 50px 40px;
+    }
+    .area-bold-title h1 {
+        font-size: 33px;
+    }
+    .team-sction h1 {
+        font-size: 36px;
+    }
+    .hero-padding{padding-top:0;}
+    .header-middle-area {
+        padding-top: 19px;
+        padding-bottom: 5px;
+    }
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .footer-wrapper {
+        padding-right: 0;
+    }
+    .hero-text {
+        padding: 15px;
+    }
+    .hero-text h3 {
+        font-size: 23px;
+    }
+    .hero-02-wrapper .hero-text {
+        padding: 0 15px 15px 15px;
+    }
+    .hero-text h3 {
+        font-size: 18px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+    .news-post-item .post-sm-img {
+        margin-left: 15px;
+    }
+    .news-post-item .post-2-content h4 {
+        font-size: 15px;
+        margin-bottom: 4px;
+        margin-top: 6px;
+    }
+    .news-post-item .post-sm-img > a img {
+        width: 140px;
+    }
+    .news-post-item .post-2-content {
+        margin-top: 0;
+    }
+    .newsletter-wrapper {
+        padding: 75px 20px 80px 20px;
+    }
+    .newsletter-button button {
+        padding: 21px 95px;
+    }
+    .post-2-content h4 {
+        font-size: 15px;
+    }
+    .breaking-bg {
+        padding: 20px 15px 10px;
+    }
+    .breaking-wrapper {
+        padding: 10px;
+    }
+    .post-2-content h4 {
+        font-size: 15px;
+    }
+    .breaking-wrapper .post-sm-img > a img {
+        width: 100px;
+    }
+    .footer-img {
+        margin-top: 0;
+    }
+    .newsletter-02-wrapper {
+        padding: 48px 15px 70px 15px;
+    }
+    .newsletter-02-wrapper .newsletter-button button {
+        padding: 14px 132px;
+    }
+    .recent-news-text-03 h5 {
+        font-size: 18px;
+    }
+    .footer-img a {
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+    .hero-big {
+        max-width: 100%;
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 80%;
+        flex: 0 0 100%;
+    }
+    .news-data-bg {
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-top: -50px;
+    }
+    .news-data-wrapper {
+        padding: 40px 20px 30px 20px;
+    }
+    .news-data-text h3 {
+        font-size: 20px;
+    }
+    .hero-sm {
+        max-width: 100%;
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 20%;
+        flex: 0 0 100%;
+    }
+    .lifestyle-04-text p {
+        margin-left: 0;
+    }
+    .lifestyle-04-text h4 {
+        font-size: 22px;
+    }
+    .breadcrumb-text > h1 {
+        font-size: 36px;
+    }
+    .social-icon a {
+        margin-bottom: 5px;
+    }
+    blockquote::before {
+        display: none;
+    }
+    .author-img {
+        margin-left: 0;
+        float: none;
+        text-align: center;
+    }
+    .author-text {
+        margin-top: 0;
+        text-align: center;
+    }
+    .conatct-post-form button {
+        padding: 21px 90px;
+    }
+    .layout-wrapper-03 {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .layout-wrapper-03 .lifestyle-02-text h4 {
+        font-size: 30px;
+    }
+    .layout-2-title {
+        font-size: 25px;
+    }
+    .layout-content-02 h3 {
+        font-size: 25px;
+    }
+    .author-2-text {
+        margin-right: 0;
+        margin-top: 0;
+    }
+    .subscribe-title h1 {
+        font-size: 36px;
+    }
+    .newsletter-form form button {
+        margin-right: 0;
+        margin-top: 10px;
+    }
+    .newsletter-form form input {
+        width: 100%;
+    }
+    .about-img {
+        margin-right: 0;
+    }
+    .area-bold-title p {
+        margin-left: 0;
+    }
+    .about-wrapper {
+        margin-top: 0;
+    }
+    .faq-bg {
+        padding: 68px 20px 50px 20px;
+    }
+    .area-bold-title h1 {
+        font-size: 33px;
+    }
+    .team-sction h1 {
+        font-size: 36px;
+    }
+    .faq-wrapper {
+        margin-left: 0;
+    }
+    .hero-padding{padding-top:0;}
+    .header-middle-area {
+        padding-top: 19px;
+        padding-bottom: 5px;
+    }
+    .header-info {
+        float: none;
+        margin-left: 0;
+    }
+    .header-text {
+        overflow: hidden;
+        position: relative;
+        top: 0;
+        right: 0;
+        padding: 10px;
+    }
+    .breaking-2-border .header-info h5 {
+        text-align: center;
+    }
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ 
+}
